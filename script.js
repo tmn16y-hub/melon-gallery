@@ -5,9 +5,9 @@ if (tg) {
 }
 
 const photos = [
-  {src:"photos/1.jpg", user:"@username", time:"07.10 00:43"},
-  {src:"photos/2.jpg", user:"@username", time:"07.10 00:35"},
-  {src:"photos/3.jpg", user:"@username", time:"06.10 23:58"},
+  {src:"1.jpeg", user:"@username", time:"07.10 00:43"},
+  {src:"2.jpeg", user:"@username", time:"07.10 00:35"},
+  {src:"3.jpeg", user:"@username", time:"06.10 23:58"},
 ];
 
 const feed = document.getElementById("feed");
