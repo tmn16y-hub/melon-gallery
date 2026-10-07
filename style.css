@@ -1,5 +1,5 @@
 *{box-sizing:border-box}
-html,body{margin:0;padding:0;background:#fff;color:#111;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif}
+html,body{margin:0;padding:0;background:#f0f0f0;color:#111;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif}
 body{padding-bottom:28px}
 .top{padding:18px 18px 14px;text-align:center;position:sticky;top:0;z-index:5;background:rgba(255,255,255,.94);backdrop-filter:blur(12px)}
 .title{font-size:21px;font-weight:800}
